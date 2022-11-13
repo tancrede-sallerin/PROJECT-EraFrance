@@ -2,7 +2,7 @@
 Récupère le numéro, l'email et le cv de tous les médecins par exemple en recherche d'emploi sur le site EraFrance
 
 
-# p-Amazon
+# p-EraFrance
 
 - French:
 Scraper qui récupère le numéro, l'email et le cv de tous les "médecins" en recherche d'emploi (ou n'importe quelle autre profession) sur le site EraFrance. Language: Python 3
